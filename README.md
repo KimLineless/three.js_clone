@@ -7,3 +7,5 @@
 ---
 
 <p align = 'center'> 📌 인덱스 화면</p>
+
+https://user-images.githubusercontent.com/96815572/187814014-010a8011-52fe-40be-bc8e-837321074719.mp4
